@@ -1,5 +1,5 @@
 # Project Name
-> Lending Case Study
+### Lending Case Study
 
 
 ## Problem Statement
